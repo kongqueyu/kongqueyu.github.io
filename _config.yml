@@ -7,7 +7,7 @@
 
 # Site settings
 title: 孔雀鱼的技术专栏
-brief-intro: web Coder (FE,Front-End Development)
+brief-intro: web Coder (FE+)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://643435675.github.io" # the base hostname & protocol for your site
 

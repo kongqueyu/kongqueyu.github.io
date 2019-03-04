@@ -9,7 +9,7 @@ tag: 机器视觉
 
 
 <h6><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/copyright.png" alt="copyright" style="display:inline;margin-bottom: -5px;" width="20" height="20"> 版权声明：本文为博主原创文章，未经博主允许不得转载。
-<a target="_blank" href="http://robotkang.cc/2018/06/OpenCV-ABC/">原文地址：http://robotkang.cc/2018/06/OpenCV-ABC/ </a>
+<a target="_blank" href="https://kongqueyu.github.io/2018/06/OpenCV-ABC/">原文地址：https://kongqueyu.github.io/2018/06/OpenCV-ABC/ </a>
 </h6>
 ### Visual Studio 2010 安装
 

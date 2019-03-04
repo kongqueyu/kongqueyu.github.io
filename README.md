@@ -1,6 +1,6 @@
 # leopard
 
-[leopard](http://robotkang.cc) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
+[leopard](https://kongqueyu.github.io) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
 
 
 可关注我的公众号进一步了解\(^o^)/~
@@ -17,7 +17,7 @@
 - 本站名称：Robotkang &emsp;        
 
 
-- 本站网址：http://www.robotkang.cc &emsp;         
+- 本站网址：https://kongqueyu.github.io &emsp;
 
 
 Jekyll 支持 Mac 、Windows、ubuntu 、Linux 操作系统                     

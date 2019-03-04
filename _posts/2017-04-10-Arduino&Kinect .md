@@ -7,7 +7,7 @@ tag:  Arduino
 ---   
 
 <h6><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/copyright.png" alt="copyright" style="display:inline;margin-bottom: -5px;" width="20" height="20"> 版权声明：本文为博主原创文章，未经博主允许不得转载。
-<a target="_blank" href="http://robotkang.cc/2017/04/Arduino&Kinect/">原文地址：http://robotkang.cc/2017/04/Arduino&Kinect/</a>
+<a target="_blank" href="https://kongqueyu.github.io/2017/04/Arduino&Kinect/">原文地址：https://kongqueyu.github.io/2017/04/Arduino&Kinect/</a>
 </h6>
 　　这个小项目是之前在学校实验室做的，已成功运行，现在把相关的资料记录下来，便于日后察阅。     
 
@@ -167,7 +167,7 @@ tag:  Arduino
         下面进行Kinect的代码编写，我采用的是processing软件（最好使用低版本的），使用前需要安装Kinect驱动`OpenNI_NITE_Installer-win32-0.27`和kinect的链接库`SimpleOpenNI-0.27`<a href="https://code.google.com/p/simple-openni/downloads/list" target="_blank">下载地址</a>。
 
 > 下载SimpleOpenNI这个库需要翻墙下载，具体方法可看我这篇文章：
-<a href="http://robotkang.cc/2017/11/The-ladder/" target="_blank">如何高效且优雅的翻墙</a>      
+<a href="https://kongqueyu.github.io/2017/11/The-ladder/" target="_blank">如何高效且优雅的翻墙</a>
 <br>
  
 

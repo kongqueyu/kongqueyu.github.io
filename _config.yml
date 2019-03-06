@@ -5,28 +5,28 @@ description: 欢迎来到我的个人网站~
 # 头像里面的标题
 avatarTitle: KongQueYu
 # 头像里面的描述
-avatarDesc: 机器人赛事/嵌入式
+avatarDesc: FE
 url: "wwww.baidu.co"
 
 # Comment
 comment:
     provider: duoshuo
     duoshuo:
-     short_name: robotkang
+     short_name: KongQueYu
 
 # Social
 social:
     weibo: 123456789
-    weixing: kang1390305137 
-    github: MengZheK
-    # twitter: 
-    mail: robotkang@foxmail.com
-    csdn: robotkang
+#    weixing: kang1390305137
+#    github: MengZheK
+#    # twitter:
+#    mail: robotkang@foxmail.com
+#    csdn: robotkang
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-baidu:
-    id: 144d500dd9ac4a65465a14b95f3e4ade 
+#baidu:
+#    id: 144d500dd9ac4a65465a14b95f3e4ade
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id

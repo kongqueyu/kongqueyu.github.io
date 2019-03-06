@@ -5,8 +5,6 @@
 
 可关注我的公众号进一步了解\(^o^)/~
 
-![world](https://wx2.sinaimg.cn/mw690/005MCs32gy1fxb45sem9qj3076076wey.jpg)
-
 ### 使用条件
 
 
@@ -14,7 +12,7 @@
 - 模板代码可任意使用，但请保留本站友情链接。 &emsp;      
 
 
-- 本站名称：Robotkang &emsp;        
+- 本站名称： &emsp;
 
 
 - 本站网址：https://kongqueyu.github.io &emsp;

@@ -23,7 +23,6 @@ title: 资源「USEFUL LINKS」
 <a href="http://robotkang.xyz" style="color:#DC143C" target="_blank">Company</a>- FLAG&emsp;
 
 <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/%E6%B1%82%E5%AD%97%E4%BD%93.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
-<a href="http://wiki.robotkang.cc" target="_blank" style="text-decoration:none" > Robotkang's Wiki </a>个人维基百科库，还未整理！    
 <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/app%E8%A7%84%E8%8C%83.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="/app/" target="_blank">APP下载1</a>
 <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/app%E8%A7%84%E8%8C%83.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
